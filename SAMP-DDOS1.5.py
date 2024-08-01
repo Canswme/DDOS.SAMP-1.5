@@ -34,9 +34,7 @@ os.system("clear")
 print("""
 \u001b[35m
 	  AUTHOR TOOLS : SAMP NUDOS
-	╔═╗╔═╗╔╦╗╔═╗   ╔╗╔╦ ╦╔╦╗╔═╗╔═╗
-	╚═╗╠═╣║║║╠═╝───║║║║ ║ ║║║ ║╚═╗
-	╚═╝╩ ╩╩ ╩╩     ╝╚╝╚═╝═╩╝╚═╝╚═╝ V 1.5
+	#PABBIE DDOS  V 1.5
 """)
 
 ip = str(input(" Target IP :"))
